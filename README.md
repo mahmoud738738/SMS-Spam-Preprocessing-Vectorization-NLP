@@ -1,4 +1,4 @@
-# SMS Spam Preprocessing & Vectorization (NLP)
+# SMS Spam Preprocessing & Vectorization — (NLP)
 
 An end-to-end Natural Language Processing (NLP) text preparation project on the **SMS Spam Collection (`spam.csv`)** dataset, demonstrating each preprocessing and feature vectorization stage with **Before vs. After** comparisons using Python list comprehensions, NLTK (`word_tokenize`, `stopwords`, `WordNetLemmatizer`), and `scikit-learn` vectorizers.
 
@@ -68,7 +68,7 @@ Raw SMS messages contain irregular casing, punctuation noise, high-frequency sto
 ## Project Structure
 
 ```text
-SMS-Spam-Preprocessing-Vectorization/
+SMS-Spam-Preprocessing-Vectorization-NLP/
 ├── SMS_Spam_Preprocessing_Vectorization.ipynb   # Executed notebook with concise English analysis
 ├── sms_spam_preprocessing_vectorization.py      # Standalone reproducible Python script
 ├── spam.csv                                     # SMS Spam Collection dataset
